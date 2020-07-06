@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+
+<html lang="en"><title>Md. Shahibur Rahman</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+<style>
+    body {padding: 20px; font-family: 'Lato', sans-serif; font-size: 16px; } .header {text-align: center; } .profile {width: 150px; } .profile-name {margin-top: 5px; font-size: 26px; } .content {max-width: 700px; margin-left: auto; margin-right: auto; } p {font-size: 16px; line-height: 1.5; } a {color: #258cdb; text-decoration: none; } a:hover {color: #2571db; } h1 {font-size: 28px; } .ytp-chrome-top {display: none !important; } .embed {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 10px; margin-top: 10px; } .embed iframe, .embed object, .embed embed {position: absolute; top: 0; left: 0; width: 100%; height: 100%; } .circular--square {border-radius: 50%; } .circular--square {border-top-left-radius: 50% 50%; border-top-right-radius: 50% 50%; border-bottom-right-radius: 50% 50%; border-bottom-left-radius: 50% 50%; } #desc{text-align: justify; text-justify: inter-word; } p.status {margin-top:0.8px; margin-bottom:0.8px;}
+</style>
+
+<body oncontextmenu="return false">
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="header">
+          <img class="circular--square" src="/static/profile.jpg" style="width:140px;"alt="Shahibur Profile Picture">
+          <h1 class="profile-name">Md. Shahibur Rahman</h1>
+
+          <p class="status"> <strong>Status : </strong>Open to new positions</p>
+
+          <div class="pure-menu pure-menu-horizontal pure-menu-scrollable">
+              <ul class="pure-menu-list">
+                  
+                     <li class="pure-menu-item"><a href="/home" class="pure-menu-link">Home</a></li>
+                  
+                    <li class="pure-menu-item"><a href="/projects" class="pure-menu-link">Projects</a></li>
+                  
+                    <li class="pure-menu-item"><a href="/contact" class="pure-menu-link">Contact</a></li>
+                  
+                  
+              </ul>
+
+          </div>
+        </div>
+
+
+     <div class="content">
+            
+
+	
+
+	<h2 id="contact-me">Contact Me</h2>
+
+	<div>
+
+             <ul >
+                    <li style="padding: 5px;">You can reach me at <a href="mailto:shahiburrahman55@gmail.com">shahiburrahman55@gmail.com</a>.</li>
+             </ul>
+	</div>
+
+	
+
+
+
+        </div>
+
+      </div>
+    </main>
+
+</body>
+</html>
